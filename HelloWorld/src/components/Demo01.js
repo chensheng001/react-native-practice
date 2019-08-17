@@ -9,7 +9,7 @@ class Demo01 extends React.Component{
             imgData : [
                 {
                     title: '1111',
-                    url: 'https://facebook.github.io/react/logo-og.png'
+                    url: '../assets/imgs/logo-og.png'
                 },
                 {
                     title: '2222',
